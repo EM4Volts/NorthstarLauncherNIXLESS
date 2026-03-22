@@ -3,6 +3,8 @@
 
 Launcher used to modify Titanfall 2 to allow Northstar mods and custom content to be loaded.
 
+This fork also removes all NIXOS prs, to save on space.
+
 ## Build
 
 Check [BUILD.md](BUILD.md) for instructions on how to compile, you can also download [binaries built by GitHub Actions](https://github.com/R2Northstar/NorthstarLauncher/actions).
